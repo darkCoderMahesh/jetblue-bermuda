@@ -129,7 +129,7 @@ function setupContent() {
 
 
        h4[0].innerHTML +=
- "<span class='sm blue'>Nonstop flights from </span><br><span class='blue city'>" + "NYC" + "</span> <span class='blue to'>to</span> <span class='blue city'>" + "Barbados" + "</span>";
+ "<span class='sm blue'>Nonstop flights from </span><br><span class='blue city'>" + "NYC" + "</span> <span class='blue to'>to</span> <span class='blue city'>" + "Aruba (AUA)" + "</span>";
 
    //       h4[0].innerHTML +=
    // "<span class='sm blue'>Nonstop flights from </span><br><span class='blue city'>" + origin_formatted + "</span> <span class='blue to'>to</span> <span class='blue city'>" + destination_formatted + "</span>";
