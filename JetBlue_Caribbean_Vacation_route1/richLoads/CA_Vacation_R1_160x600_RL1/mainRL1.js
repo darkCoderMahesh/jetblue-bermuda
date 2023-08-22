@@ -124,6 +124,7 @@ function animate() {
   .to(['#photo, #photo2'], 1, {  x:"-=160", ease: Power1.easeInOut }, "frame_2")
   .to(['#h1b, #h2'], 0.5, {  autoAlpha: 1, ease: Power1.easeInOut }, "frame2")
   .to('#photo2', 5, { x:"-=80", ease:"none" }, "frame_2+=1")
+  
  
 
     ////////////////////////////////////////
